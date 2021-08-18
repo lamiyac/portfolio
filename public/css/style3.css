@@ -1,0 +1,75 @@
+
+
+table{
+   
+    
+    row-gap: 300px;
+    column-gap: 100px;
+    text-align: center;
+    
+}
+table,tr
+
+{
+text-align: center;
+justify-content: space-evenly;
+margin-left: 23%;
+margin-top: 30px;
+
+
+
+
+}
+table,th,td
+{
+box-sizing: content-box;
+border-width: 1px;
+border-style:solid;
+
+border-color: black;
+}
+
+h1
+{
+    text-align: center;
+    
+}
+
+
+
+.class1
+{
+    color:steelblue;
+    font-weight: bolder;
+    border-color:black;
+}
+.class2
+{
+    color:orangered;
+    font-weight: bolder;
+    border-color:black;
+}
+.class3
+{
+    color:darkviolet;
+    font-weight: bolder;
+    border-color:black;
+}
+.class4
+{
+    color:hsl(0, 98%, 51%);
+    font-weight: bolder;
+    border-color:black;
+}
+.class5
+{
+    color:green;
+    font-weight: bolder;
+    border-color:black;
+}
+.class6
+{
+    color:rgb(185, 28, 28);
+    font-weight: bolder;
+    border-color:black;
+}

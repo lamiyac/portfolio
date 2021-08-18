@@ -1,0 +1,105 @@
+body
+{
+
+background-image: linear-gradient(110deg,rgb(99, 99, 206),violet);
+margin: 0;
+padding: 0;
+width: 100%;
+height: 1000px;
+
+}
+::placeholder
+{
+    color: crimson;border: none;
+}
+h1
+{
+text-align: center;
+}
+#label1
+{
+    padding-left:33%;
+}
+#label2
+{
+    padding-left:37%;
+}
+#main2
+{
+ width: 27%;
+ height:5px;
+border-style:solid;
+border-color:white;
+border-width:1px;
+border-left-color: black;
+border-top-color: black;
+border-top-width:0.1px;
+margin-left: 25%;
+margin-right:50%;
+padding-inline-start:25%;
+
+}
+
+#label4
+{
+    padding-left: 25%;
+  
+}
+#label5
+{
+    border:none;
+    height:50px;
+    width:50px;
+}
+
+.submitclass
+{
+    color: white;
+    background-image:linear-gradient(110deg,#2404ef,cyan);
+    height: 40px;
+    width:10%;
+    border: none;
+}
+.class1
+{
+    border: none;
+    border-bottom: 1px solid crimson;
+    background-color: transparent;
+    width:20%;
+    margin-top: 40px;
+    
+}
+.class2
+{
+    border: none;
+    border-bottom: 1px solid crimson;
+    background-color:transparent;
+    width:95%;
+    margin-top: 40px;
+}
+.backclass
+{
+    height: 40px;width:60px;
+    border:none;
+    color: black;
+background-image: linear-gradient(110deg,rgb(99, 99, 206),cyan);
+
+    
+    font-weight: bold;
+}
+.class3
+{
+    height: 20px;
+    width:200px;
+}
+.class4
+{
+    height: 26px;
+    width:200px;
+}
+#main6
+{
+    width:55%;
+    margin-left:25%;
+    margin-right:50%;
+}

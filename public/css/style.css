@@ -1,0 +1,329 @@
+header
+{
+    height: 50px;width:100%;background-color: black;
+    
+}
+body
+{
+margin: 0;
+}
+section
+{
+    height: 500px;width: 100% ;background-color: blue;
+    background-image: url("/public/images/download.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: cornsilk;
+}
+nav li
+{
+ display: inline;
+
+ color: cornsilk;
+ padding: 12px;
+
+ 
+ 
+}
+nav
+{
+   float: right;
+}
+nav li a
+{
+     text-decoration:none;
+     color: blanchedalmond;
+     
+}
+#main10
+{
+    color: cornsilk;
+}
+
+#main1
+{
+  height: 100px;
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ padding-top: 200px;
+}
+.class3
+{
+    
+    height:100px;
+    width: 10%;  
+    border: 1px solid white;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+
+}
+#image1
+{
+    
+border-radius: 50%;
+height:100px ;width: 100px;
+border-left:5px dashed orange;
+}
+#main7
+{
+ 
+ height: 200px;
+ width: 90%;
+ display: flex;
+ flex-direction:row;
+ justify-content: space-evenly;
+margin-left: 75px;
+ 
+}
+
+.class1
+{
+border-radius: 50%;
+height:40px;
+color: yellow;
+margin-left: 50px;
+
+}
+.class2
+{
+    color: cornsilk;
+    height: 100px;
+    width: 50%;  
+
+
+}
+
+#about1
+{
+    height:500px;
+    width:100% ;
+}
+#experience1
+{
+    height:500px;
+    width:100% ;
+}
+#education1
+{
+    height:500px;
+    width:100% ;
+}
+#details1
+{
+    height:80%;
+    width:100% ;
+}
+#projects1
+{
+    height:200px;
+    width:100% ;
+}
+#about2
+{
+    height: 500px; 
+    width:50%;
+    display: flex;
+    flex-direction:column;
+    margin-left: 100px;
+}#aboutimage1
+{
+    height:200px;
+    width:40%;
+    padding-left: 400px;
+    margin-top:20px;
+}
+#aboutimage
+{
+    height: 100px;
+    width:100%;
+    
+    
+}
+#main8
+{
+    height: 700px;
+    width:100%;
+    display: flex;
+    flex-direction:row;
+ 
+
+}
+#experience2
+{
+    height: 500px; 
+    width:60%;
+    display: flex;
+    flex-direction:column;
+    margin-left: 50px; 
+}
+#experienceimage
+{
+    height:400px;
+    width:40%;
+    
+}
+#experienceimage1
+{
+    height:300px;width:70%;
+     margin-left: 100px;
+     margin-top: 15px;
+}
+#education2
+{
+    height: 500px; 
+    width:50%;
+    display: flex;
+    flex-direction:column;
+    margin-left: 200px;
+    margin-right:100px;
+}
+#educationimage
+{
+    height:500px;width:50%;
+}
+#educationimage1
+{
+    height:300px;width:70%;padding-left: 100px;margin-top: 15px;
+}
+#detailsimage
+{
+    height:500px;width:50%;
+}
+#detailsimage1
+{
+    height:500px;width:60%;padding-left:100px;
+}
+
+#details1
+{
+    height:500px;width:100%;
+    display: flex;   
+    flex-direction:column;
+}
+#icon3
+{
+    height: 50px;width:40%;
+    padding-top:100px;
+    padding-right: 100px;
+   padding-bottom: 100px;
+}
+
+
+h3
+{
+padding-left: 100px;
+padding-right: 50%;
+
+}
+
+#main10
+{
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+    
+}
+#main9
+{
+    display: flex;
+    flex-direction: row;
+    
+    padding-left: 50px;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+nav li b 
+{
+margin-left:150px;
+margin-right: 10px;
+}
+hr.solid
+{
+    border: 1px  solid yellow;
+    
+   
+  
+}
+table,th
+{
+margin-right:10px;
+margin-top: 10px;
+
+justify-content: space-evenly;
+
+
+}
+table,th,td
+{
+    margin-top: -13px;
+    
+}
+
+#projects
+{
+    padding-top: 100px;
+}
+
+#main20
+{
+    background-color: rgba(0, 0, 0, 0.897);
+    height:500px;
+   
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+
+}
+
+#main18
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:200px;
+}
+#main19
+{
+    width:200px;
+}
+#main17
+{
+width:auto;
+
+}
+#main16{
+    
+    padding-left: 60px;
+}
+#main15
+{
+    padding-left: 60px;
+}
+#main23
+{
+background-color: black;
+padding-left: 40%;
+padding-top: 20px;
+
+}
+.class6
+{
+background-color: yellow;
+border: none;
+height:22px;
+width: 80px;
+}
+#main14
+{
+    height:auto;
+}
+h4
+{
+padding-top: 15px;
+}
